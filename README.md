@@ -1,0 +1,1 @@
+# Detecting-Schizophrenia-by-using-Hybrid-Deep-Learning-Architectures
