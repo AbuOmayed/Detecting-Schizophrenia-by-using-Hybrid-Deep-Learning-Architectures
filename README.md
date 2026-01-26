@@ -3,7 +3,7 @@
 This section presents visualizations supporting the research titled:  
 **"A Comparative Analysis of Hybrid Deep Learning Architectures for Detecting Schizophrenia from EEG Signals"**
 
-In this study, EEG signals were used to develop and evaluate several deep learning models—GRU, CNN-GRU, and CNN-LSTM-GRU—for classifying schizophrenia patients from healthy controls. The models were trained on preprocessed EEG datasets and assessed based on accuracy, loss, and ROC curve performance. Activation functions like ReLU and ELU were also compared to determine their impact on classification efficiency.
+In this study, EEG signals were used to develop and evaluate several deep learning models—1D-CNN, GRU, CNN-LSTM, CNN-GRU, CNN-SVM and CNN-LSTM-GRU—for classifying schizophrenia patients from healthy controls. The models were trained on preprocessed EEG datasets and assessed based on accuracy, loss, and ROC curve performance. Activation functions like ReLU and ELU were also compared to determine their impact on classification efficiency.
 
 The figures below illustrate the architecture, training behavior, and classification performance of each model variant.
 
@@ -59,12 +59,14 @@ The figures below illustrate the architecture, training behavior, and classifica
   <img width="428" height="348" alt="ELU ROC" src="https://github.com/user-attachments/assets/04ebeb26-e838-47ac-96be-eafbaad0802a" />
 </p>
 
+---
 ## 📊 Overall Performane
 
 <p align="center">
 <img width="480" height="228" alt="Image" src="https://github.com/user-attachments/assets/e6a254c2-ef60-49bf-809d-eea676dd29b9" />
 </p>
 
+---
 ## 🧠 Models Used
 
 - 1D-CNN
