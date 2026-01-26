@@ -1,4 +1,4 @@
-# 🧠 Deep Learning for EEG-based Schizophrenia Detection
+# 🧠 Hybrid Deep Learning Architectures for EEG-based Schizophrenia Detection
 
 This section presents visualizations supporting the research titled:  
 **"A Comparative Analysis of Hybrid Deep Learning Architectures for Detecting Schizophrenia from EEG Signals"**
