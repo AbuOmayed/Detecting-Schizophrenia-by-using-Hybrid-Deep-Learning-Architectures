@@ -58,3 +58,37 @@ The figures below illustrate the architecture, training behavior, and classifica
 <p align="center">
   <img width="428" height="348" alt="ELU ROC" src="https://github.com/user-attachments/assets/04ebeb26-e838-47ac-96be-eafbaad0802a" />
 </p>
+
+## 📊 Overall Performane
+
+<p align="center">
+<img width="480" height="228" alt="Image" src="https://github.com/user-attachments/assets/e6a254c2-ef60-49bf-809d-eea676dd29b9" />
+</p>
+
+## 🧠 Models Used
+
+- 1D-CNN
+- GRU
+- CNN-LSTM
+- CNN-GRU  
+- CNN-SVM
+- CNN-LSTM-GRU  
+
+---
+
+## 📌 Notes
+
+- This repository focuses on **visual and experimental results only**
+- The code implementation is part of the associated research work
+- Figures are intended for **journal/conference publication support**
+
+---
+## 📬 Contact
+
+**Author:** Abu Omayed  
+📧 **Email:** abuomayed@gmail.com  
+
+---
+## 📜 License
+
+This project is for **academic and research purposes only**.
