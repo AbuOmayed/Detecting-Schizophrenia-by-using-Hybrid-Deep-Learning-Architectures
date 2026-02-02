@@ -10,6 +10,20 @@ The figures below illustrate the architecture, training behavior, and classifica
 
 ---
 
+## Abstract
+
+Schizophrenia (SZ) is a severe mental health disorder where objective and automated detection methods can support early diagnosis and treatment. This project proposes a novel triple-hybrid deep learning architecture (CNN–LSTM–GRU) for automated schizophrenia detection using electroencephalogram (EEG) signals.
+
+The proposed model leverages the complementary strengths of Convolutional Neural Networks (CNNs) for spatial feature extraction and recurrent networks (LSTM and GRU) for learning temporal dependencies in EEG data. By integrating CNN, LSTM, and GRU into a unified framework, the model effectively captures complex spatiotemporal EEG patterns associated with schizophrenia.
+
+The approach is evaluated on EEG recordings from 81 subjects (49 schizophrenia patients and 32 healthy controls). A comprehensive comparative analysis is performed against multiple baseline and hybrid models, including CNN, GRU, CNN–GRU, CNN–LSTM, and CNN–SVM.
+
+Experimental results show that the proposed CNN–LSTM–GRU model achieves the highest classification accuracy of 97.04%, outperforming CNN–GRU (96.26%), standalone GRU (96.62%), and all other comparison models. These results demonstrate the effectiveness and novelty of the triple-hybrid architecture in identifying EEG biomarkers of schizophrenia.
+
+This work highlights the potential of advanced hybrid deep learning models to improve EEG-based schizophrenia detection and contribute to more reliable and automated mental health diagnostic systems.
+
+---
+
 ## 📌 Methodology Overview
 
 <p align="center">
